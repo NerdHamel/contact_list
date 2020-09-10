@@ -31,7 +31,6 @@ class MainActivity : NHCActivityBase<MainModel, MainView, MainPresenter>() {
             MainModel()
         )
 
-        (presenter as MainPresenter).loadSenateData()
 
     }
 

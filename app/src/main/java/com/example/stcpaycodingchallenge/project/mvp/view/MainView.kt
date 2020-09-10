@@ -11,9 +11,8 @@ class MainView(val ac: MainActivity) : NHCActivityViewBase(ac) {
 
     var senators: List<Senator>? = null
 
-    fun showSenateList(senatorss: SenatorListResponse?) {
-        senatorss.let { senators = senatorss?.objects }
-
+    fun showSenateList(senatorss: List<Senator>?) {
+        senatorss.let { senators = senatorss }
         senators?.let { ac?.rcvSenators?.adapter = SenateListAdapter(it.sortedBy { it?.person?.sortname },this) }
     }
 
