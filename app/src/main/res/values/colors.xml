@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_holo_dark">@android:color/holo_green_dark</color>
+    <color name="colorPrimary">@color/blue_dark</color>
+    <color name="colorPrimaryDark">@color/blue_darker</color>
+    <color name="colorBlueFont">@color/colorGreenButtonBG</color>
+    <color name="colorAccent">@color/white_text</color>
+    <!--<color name="colorBlueFont">#537ACD</color>-->
+    <color name="colorGreenButtonBG">#449D44</color>
+    <color name="grayComponentHeader">#F5F5F5</color>
+    <color name="lightBlack">#666666</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_gray_alpha">#AABBBBBB</color>
+    <color name="item_gray">#AAF0F0F0</color>
+    <color name="light_gray">#BBBBBB</color>
+    <color name="menu_icon_gray">#FF5F5F5F</color>
+    <color name="transparent">#00000000</color>
+    <color name="grey">#BBBBBBBB</color>
+    <color name="orange">#FFf39200</color>
+    <color name="red">#f30000</color>
+    <color name="lighter_than_black">#FF282f39</color>
+    <color name="black">#FF000000</color>
+    <color name="light_blue">#FF81cef4</color>
+    <color name="gold">#FFD700</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="bronze">#cd7f32</color>
+    <color name="blue_darker">#1e4364</color>
+    <color name="blue_dark">#3370a7</color>
+    <color name="blue_dark_less">#477eaf</color>
+    <color name="blue_dark_lesser">#5b8cb8</color>
+    <color name="blue_dark_least">#709ac1</color>
+    <color name="blue_accent">#24d0fd</color>
+    <color name="blue_baby">#e6f2ff</color>
+    <color name="blue_label">#007AFF</color>
+    <color name="pie_pink">#ffe0e6</color>
+    <color name="pie_blue">#d7ecfb</color>
+    <color name="red_50_percent_opaque">#88FF1744</color>
+    <color name="white_50_percent_opaque">#88FFFFFF</color>
+    <color name="white_30_percent_opaque">#55FFFFFF</color>
+    <color name="green">#6E8074</color>
+    <color name="purple">#932192</color>
+    <color name="blue">#031993</color>
+    <color name="white_text">#FFFFFF</color>
+    <color name="background">#fbfbfd</color>
+    <color name="description_label">#b7b5c1</color>
+    <color name="admin_label">#8b8da1</color>
+
+
+</resources>
